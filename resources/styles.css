@@ -1,6 +1,6 @@
-/* SuperHi Project # 1 - Sally Hart Photography */
+/* SuperHi - Project # 1 - Sally Hart Photography */
 /* Stylesheet, v1.0 */
-/* Last Edited by: Nicholas Smits, 07/18/2020 @ 11:01pm */
+/* Last Edited by: Nicholas Smits, 07/18/2020 @ 11:10pm */
 
 /* Layout Styles */
 header {position: fixed; top: 40px; left: 40px;}
@@ -8,14 +8,14 @@ section {width: 100%; height: 100vh; background-size: cover; background-attachme
 footer {position: fixed; bottom: 40px; left: 40px;}
 
 /* Image Styles */
-.bg_1 {background-image: url(./resources/sally_1.jpg);}
-.bg_2 {background-image: url(./resources/sally_2.jpg);}
-.bg_3 {background-image: url(./resources/sally_3.jpg);}
-.bg_4 {background-image: url(./resources/sally_4.jpg);}
-.bg_5 {background-image: url(./resources/sally_5.jpg);}
-.bg_6 {background-image: url(./resources/sally_6.jpg);}
-.bg_7 {background-image: url(./resources/sally_7.jpg);}
-.bg_8 {background-image: url(./resources/sally_8.jpg);}
+.bg_1 {background-image: url(./sally_1.jpg);}
+.bg_2 {background-image: url(./sally_2.jpg);}
+.bg_3 {background-image: url(./sally_3.jpg);}
+.bg_4 {background-image: url(./sally_4.jpg);}
+.bg_5 {background-image: url(./sally_5.jpg);}
+.bg_6 {background-image: url(./sally_6.jpg);}
+.bg_7 {background-image: url(./sally_7.jpg);}
+.bg_8 {background-image: url(./sally_8.jpg);}
 
 /* Recurring Styles */
 body {font-family: 'Noto Sans JP', sans-serif; background-color: #004d9d;}
